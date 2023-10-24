@@ -1,0 +1,38 @@
+1.Basic NLP Techniques:
+
+Tokenization: Splitting text into words or smaller units (tokens).
+Stop Word Removal: Removing common words (e.g., "the," "and," "is") that may not carry much meaning.
+Stemming: Reducing words to their root or base form (e.g., "jumping" to "jump").
+Lemmatization: Reducing words to their base or dictionary form (e.g., "better" to "good").
+Lowercasing: Converting all text to lowercase for consistency.
+Text Cleaning: Removing special characters, punctuation, and noise from text.
+Bag of Words (BoW): Representing text as a frequency count of words.
+Term Frequency-Inverse Document Frequency (TF-IDF): Assigning weights to words based on their importance in a document.
+N-grams: Extracting sequences of 'n' consecutive words or characters.
+Text Normalization: Standardizing text to a common format.
+
+2.Intermediate NLP Techniques:
+
+Named Entity Recognition (NER): Identifying and classifying named entities (e.g., persons, organizations, locations) in text.
+Part-of-Speech (POS) Tagging: Assigning grammatical tags to words (e.g., noun, verb, adjective).
+Syntax Parsing: Analyzing the grammatical structure of sentences.
+Dependency Parsing: Identifying grammatical relationships between words.
+Word Embeddings: Representing words as dense vectors in a continuous space (e.g., Word2Vec, GloVe).
+Topic Modeling: Discovering topics within a collection of documents (e.g., Latent Dirichlet Allocation).
+Sentiment Analysis: Determining the sentiment or emotion expressed in text (positive, negative, neutral).
+Text Classification: Categorizing text into predefined classes or categories.
+Text Summarization: Creating a concise summary of a longer text.
+Machine Translation: Automatically translating text from one language to another (e.g., using neural machine translation models).
+
+3.Advanced NLP Techniques:
+
+Named Entity Linking (NEL): Linking named entities to real-world entities in knowledge bases (e.g., linking "Apple" to the company).
+Coreference Resolution: Identifying and resolving references to the same entity in text (e.g., pronouns).
+Relation Extraction: Identifying relationships between entities mentioned in text.
+Question Answering (QA): Automatically answering questions based on a given text (e.g., reading comprehension).
+Language Generation: Generating human-like text (e.g., chatbots, text generation models like GPT-3).
+Language Understanding: Going beyond keyword-based search to understand user queries semantically.
+Dialog Systems: Building conversational agents capable of holding natural language conversations.
+Multimodal NLP: Integrating text analysis with other modalities like images and audio.
+Event Extraction: Identifying and extracting structured information about events from text.
+Cross-lingual NLP: Handling multiple languages in NLP tasks.
